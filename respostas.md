@@ -1,0 +1,1 @@
+O h3 deve vir depois do h2 porque o h3 representa uma subseção do assunto apresentado pelo h2.
